@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "yXN1tz7nxRSkZOmJw+1oYvY7Txam3rKEWBlI4gThJ8k=",
+  "Source": "destinocerto-csharp",
+  "BasePath": "_content/destinocerto-csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Remakker\\Desktop\\destinocerto-csharp\\destinocerto-csharp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\destinocerto-csharp.styles.css",
+      "SourceId": "destinocerto-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Remakker\\Desktop\\destinocerto-csharp\\destinocerto-csharp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/destinocerto-csharp",
+      "RelativePath": "destinocerto-csharp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Remakker\\Desktop\\destinocerto-csharp\\destinocerto-csharp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\destinocerto-csharp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Remakker\\Desktop\\destinocerto-csharp\\destinocerto-csharp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\destinocerto-csharp.bundle.scp.css",
+      "SourceId": "destinocerto-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Remakker\\Desktop\\destinocerto-csharp\\destinocerto-csharp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/destinocerto-csharp",
+      "RelativePath": "destinocerto-csharp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Remakker\\Desktop\\destinocerto-csharp\\destinocerto-csharp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\destinocerto-csharp.bundle.scp.css"
+    }
+  ]
+}
